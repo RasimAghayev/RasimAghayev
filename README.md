@@ -6,15 +6,12 @@
 # Certifications
 Tutor Name | Tutor Author | Certificat
 --- | --- | ---
+[Docker & Kubernetes: The Complete Practical Guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) | [Bogdan Stashchuk](https://www.udemy.com/user/bogdanstashchuk/) | [Nov. 26, 2022](https://www.udemy.com/certificate/UC-41c831b2-3211-47bc-86d6-4a51cecbc191/)
 [Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) | [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) | [Sep. 8, 2022](https://www.udemy.com/certificate/UC-18689b01-2be8-46cf-bced-3164a368035a/)
-
 
 # Video List of Tasks to Learn
 
 Learning list My Task 
-
-Docker & Kubernetes: The Complete Practical Guide
-https://www.udemy.com/course/docker-complete/
 
 Docker from A to Z™: Swarm + Jenkins
 https://www.udemy.com/course/a-practical-guide-to-docker-swarm-and-jenkins/
