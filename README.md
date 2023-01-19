@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=rasimaghayev&theme=blueberry&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasimaghayev&layout=compact)](https://github.com/rasimaghayev)
 
 # Certifications
 Tutor Name | Tutor Author | Certificat
