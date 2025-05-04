@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/d7f8cf89-fee2-46da-89df-70b82216f2c2.svg)](https://wakatime.com/@d7f8cf89-fee2-46da-89df-70b82216f2c2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasimaghayev&layout=compact)](https://github.com/rasimaghayev)
 
