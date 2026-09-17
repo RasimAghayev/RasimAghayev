@@ -1,85 +1,178 @@
-### Hi there 👋
-[![wakatime](https://wakatime.com/badge/user/d7f8cf89-fee2-46da-89df-70b82216f2c2.svg)](https://wakatime.com/@d7f8cf89-fee2-46da-89df-70b82216f2c2)
+# Hi, I'm Rasim Aghayev 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasimaghayev&layout=compact)](https://github.com/rasimaghayev)
+### Senior Backend / Full-Stack Developer • DevOps Engineer
 
-# Certifications
-Tutor Name | Tutor Author | Certificat
---- | --- | ---
-[Docker & Kubernetes: The Complete Practical Guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) | [Bogdan Stashchuk](https://www.udemy.com/user/bogdanstashchuk/) | [Nov. 26, 2022](https://www.udemy.com/certificate/UC-41c831b2-3211-47bc-86d6-4a51cecbc191/)
-[Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) | [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) | [Sep. 8, 2022](https://www.udemy.com/certificate/UC-18689b01-2be8-46cf-bced-3164a368035a/)
+I’m a software engineer based in Baku, Azerbaijan, focused on building scalable backend systems, business applications, and production-ready infrastructure.
 
-# Video List of Tasks to Learn
+My main focus is **PHP/Laravel backend development**, but I also work across frontend, databases, system architecture, Docker, CI/CD, and cloud infrastructure.
 
-Learning list My Task 
+I enjoy taking a system from **architecture → development → testing → deployment → production support**.
 
-Docker from A to Z™: Swarm + Jenkins
-https://www.udemy.com/course/a-practical-guide-to-docker-swarm-and-jenkins/
+---
 
-Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps
-https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/
+## 🚀 What I Do
 
-Sıfırdan İleri Seviye Modern Javascript Dersleri ES7+
-https://www.udemy.com/course/modern-javascript-kursu/
+* 🧩 Backend development with **PHP / Laravel / Yii2**
+* 🏗️ Designing modular and maintainable systems
+* ⚙️ REST APIs and backend integrations
+* 🗄️ PostgreSQL, MySQL and database optimization
+* 🐳 Docker-based development and deployment
+* 🔄 CI/CD with GitHub Actions
+* 🧠 Domain-Driven Design (DDD) and CQRS
+* ⚛️ Full-stack development with React and TypeScript
+* ☁️ Production infrastructure and DevOps
+* 🔍 Performance optimization and troubleshooting
+* 🔐 Secure application and API development
 
-JavaScript - The Complete Guide 2022 (Beginner + Advanced)
-https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/
+---
 
-The Complete JavaScript Course 2022: From Zero to Expert!
-https://www.udemy.com/course/the-complete-javascript-course/
+## 🛠️ Tech Stack
 
-JavaScript Developer Bootcamp in 2022 - Beginner to Expert
-https://www.udemy.com/course/javascript-zero-to-expert-the-complete-modern-guide-build-real-apps/
+### Backend
 
-The JavaScript Bible - JavaScript Bootcamp
-https://www.udemy.com/course/javascript-bible/
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
+![Yii2](https://img.shields.io/badge/Yii2-40B3D8?style=flat\&logo=yii\&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat\&logo=symfony\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 
-JavaScript and ES6 Challenges - Do you know JavaScript?
-https://www.udemy.com/course/javascript-and-es6-challenges/
+### Frontend
 
-JavaScript Object Oriented Programming
-https://www.udemy.com/course/object-oriented-programming-javascript/
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat\&logo=vue.js\&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat\&logo=angular\&logoColor=white)
 
-JavaScript Variables Lifecycles
-https://www.udemy.com/course/javascript-variables-lifecycles/
+### Database & Data
 
-Understanding TypeScript - 2022 Edition
-https://www.udemy.com/course/understanding-typescript/
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat\&logo=oracle\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
 
-Understanding NPM - Node.js Package Manager
-https://www.udemy.com/course/understanding-npm/
+### Architecture
 
-NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
-https://www.udemy.com/course/nodejs-the-complete-guide/
+* REST APIs
+* Modular Architecture
+* Domain-Driven Design (DDD)
+* CQRS
+* Microservices
+* Clean Architecture
+* JWT Authentication
+* Event-driven systems
 
-Microservices with Node JS and React
-https://www.udemy.com/course/microservices-with-node-js-and-react/
+### DevOps & Infrastructure
 
-React - The Complete Guide (incl Hooks, React Router, Redux)
-https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=github-actions\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat\&logo=nginx\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazon-aws\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 
-Vue - The Complete Guide (incl. Router & Composition API)
-https://www.udemy.com/course/vuejs-2-the-complete-guide/
+---
 
+## 💼 Experience Highlights
 
-KAPSAMLI İNGİLİZCE EĞİTİM SETİ - Tüm Seviyeler (A1-C2)
-https://www.udemy.com/course/kapsamli-ingilizce-egitim-seti-tum-seviyeler-a1-c2/
+Over the years, I've worked on systems across:
 
-PHP: The Complete PHP MVC Course
-https://www.udemy.com/course/the-complete-php-mvc-course-build-a-modern-php-ecommerce-store/
+* 🏦 **Banking & financial systems**
+* 🏛️ **Government platforms**
+* 💳 **Payment systems**
+* 🛒 **E-commerce**
+* 🚚 **Food delivery**
+* 🏢 **Business management systems**
+* 🎮 **Real-time applications**
 
-The Complete SSL and TLS Guide 2022: HTTP to HTTPS
-https://www.udemy.com/course/ssl-complete-guide/
+Some examples from my professional work:
 
-The Complete Git Guide: Understand and master Git and GitHub
-https://www.udemy.com/course/git-and-github-complete-guide/
+* Built and supported systems serving **500,000+ customers**
+* Worked with systems processing **10,000+ daily transactions**
+* Optimized database queries with performance improvements of up to **65%**
+* Reduced deployment time from **2 hours to 15 minutes** using Docker and CI/CD
+* Built production systems with Laravel, PostgreSQL, React and TypeScript
+* Worked with Oracle FLEXCUBE and Temenos T24 environments
 
-The Complete Apache Kafka Practical Guide
-https://www.udemy.com/course/apache_kafka/
+---
 
+## 🔨 Featured Projects
 
-The Practical Linux Guide for Beginners
-https://www.udemy.com/course/linux-complete/
+### FTC.az
 
-Introduction to the MongoDB
-https://www.udemy.com/course/introduction-to-the-mongodb/
+A business management platform for automotive service centers.
+
+**Stack:** Laravel • PHP • PostgreSQL • React • TypeScript • Docker • Nginx • GitHub Actions
+
+Key areas include:
+
+* Inventory management
+* Purchase and sales invoices
+* Vehicle management
+* Customer management
+* Mechanic commissions
+* Advance payments
+* Audit trails
+* Transaction-safe stock operations
+
+The project is developed with a modular architecture and DDD/CQRS principles.
+
+---
+
+### EnglishBookAi
+
+An AI-focused project for English learning and educational content.
+
+**Stack:** PHP • Laravel • AI integrations • Database-driven application architecture
+
+---
+
+## 📊 GitHub Activity
+
+[![Rasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=RasimAghayev\&show_icons=true\&hide_border=true)](https://github.com/RasimAghayev)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RasimAghayev\&layout=compact\&hide_border=true)](https://github.com/RasimAghayev)
+
+[![WakaTime](https://wakatime.com/badge/user/d7f8cf89-fee2-46da-89df-70b82216f2c2.svg)](https://wakatime.com/@d7f8cf89-fee2-46da-89df-70b82216f2c2)
+
+---
+
+## 📚 Continuous Learning
+
+I continuously work on improving my knowledge in:
+
+* System Design
+* Software Architecture
+* Go
+* Distributed Systems
+* Database Design & Optimization
+* DevOps & Cloud Infrastructure
+* Security
+* Testing & Quality Engineering
+* AI-assisted software development
+
+---
+
+## 🎓 Certifications & Training
+
+* Docker & Kubernetes — Udemy
+* PHP High Performance — Udemy
+* Spring Boot & Microservices — Udemy
+* Microservice Java Development
+* Full-Stack Python Development
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rasim_Aghayev-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/rasimaghayev)
+[![GitHub](https://img.shields.io/badge/GitHub-RasimAghayev-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/RasimAghayev)
+
+📧 **Email:** [rasimaqayev@gmail.com](mailto:rasimaqayev@gmail.com)
+
+---
+
+> Building software is not only about writing code — it's about understanding the problem, designing the right system, and keeping it reliable in production.
