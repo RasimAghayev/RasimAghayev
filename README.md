@@ -3,9 +3,7 @@
 ### Senior Backend / Full-Stack Developer • DevOps Engineer
 
 I’m a software engineer based in Baku, Azerbaijan, focused on building scalable backend systems, business applications, and production-ready infrastructure.
-
 My main focus is **PHP/Laravel backend development**, but I also work across frontend, databases, system architecture, Docker, CI/CD, and cloud infrastructure.
-
 I enjoy taking a system from **architecture → development → testing → deployment → production support**.
 
 ---
@@ -108,7 +106,6 @@ A business management platform for automotive service centers.
 **Stack:** Laravel • PHP • PostgreSQL • React • TypeScript • Docker • Nginx • GitHub Actions
 
 Key areas include:
-
 * Inventory management
 * Purchase and sales invoices
 * Vehicle management
