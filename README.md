@@ -215,4 +215,10 @@ I'm always interested in discussing software architecture, backend engineering, 
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RasimAghayev&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
 <p align="center"><i>Great software is not just about writing code. It's about solving real problems, designing reliable systems, and building technology that scales.</i></p>
