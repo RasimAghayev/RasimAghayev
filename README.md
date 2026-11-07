@@ -8,7 +8,7 @@ I'm a software engineer based in **Baku, Azerbaijan**, specializing in backend e
 
 My primary expertise is **PHP and Laravel**, with hands-on experience across full-stack development, database engineering, distributed systems, and DevOps.
 
-I enjoy owning the complete software lifecycle — from system architecture and development to testing, deployment, monitoring, and production support.
+I enjoy owning the complete software lifecycle - from system architecture and development to testing, deployment, monitoring, and production support.
 
 ---
 
